@@ -1,0 +1,4 @@
+interface:
+  display_name: "欲言"
+  short_description: "陪你说出心里话；经你开启后，逐渐记住你的语气与支持偏好"
+  default_prompt: "使用 $liu-zhu-na-ge-ta，结合我这次的想法和已授权的个人记忆，陪我弄清并说出我想对重要的人说的话。"
